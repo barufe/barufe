@@ -1,3 +1,6 @@
+
+![_ (4)](https://github.com/barufe/barufe/assets/58121760/d888b01d-2fff-4cf6-915f-1d2cc13e4ef2)
+
 # Welcome to My Coding Playground! 🎉
 
 Hey there! 👋 I'm Belkis Arufe, a passionate Full Stack developer with a burning desire to learn and reach new heights! 💪🚀 Though I'm at the beginning of my journey, I bring enthusiasm, dedication, and a love for problem-solving to every project.
