@@ -1,7 +1,12 @@
-
 ![_ (4)](https://github.com/barufe/barufe/assets/58121760/d888b01d-2fff-4cf6-915f-1d2cc13e4ef2)
 
-# Welcome to My Coding Playground! 🎉
+<h1 align="center"> 👋 Welcome to My Coding Playground! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=FF0000&vCenter=true&size=45%22"></a>
+</p>
+
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
 
 Hey there! 👋 I'm Belkis Arufe, a passionate Full Stack developer with a burning desire to learn and reach new heights! 💪🚀 Though I'm at the beginning of my journey, I bring enthusiasm, dedication, and a love for problem-solving to every project.
 
