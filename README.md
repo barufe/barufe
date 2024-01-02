@@ -15,16 +15,7 @@ Hey there! 👋 I'm Belkis Arufe, a passionate Full Stack developer with a burni
 💼 Full Stack Developer with hands-on experience in real-world projects.
 📱 Specialized in strengthening iOS mobile applications.
 🛠 Strong skills in efficient problem-solving and effective collaboration.
-Tech Stack and Tools:
 
-🌈 Frontend: React, JavaScript, Redux, HTML5, CSS, Bootstrap.
-⚙️ Backend: Node.js, Sequelize.
-🗃 Databases: PostgreSQL, MySQL.
-📱 iOS Development: Swift, Xcode.
-✏️ Design Tools: Figma.
-🔄 Version Control: Git, GitHub.
-🚀 Agile Methodologies: Jira, Scrum.
-📊 Project Management: Trello.
 
 ## Featured Projects:
 I participated in an intensive bootcamp with Henry, where I acquired skills and expertise in Full Stack development, with a focus on JavaScript. During this period, I successfully completed two key projects, showcasing my ability to work in comprehensive web development environments.
@@ -60,6 +51,87 @@ Created a landing page with a rotating 360-degree world image for an engaging vi
 
 * Full Stack Web Developer student at Henry. 💻🎓
 * Technical in Accounting and Finance, Instituto Universitario de Tecnología Tomás Lander. 📚🎓
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="20"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="20"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="20"/>
+  </a>
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="20"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react" height="20"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="20"/>
+  </a> 
+  <a href="https://developer.apple.com" target="_blank">
+    <img src="https://img.shields.io/badge/swift-61DAFB.svg?style=for-the-badge&logo=swift&logoColor=black" alt="swift" height="20"/>
+  </a>
+</p>
+<h4 align="center">Backend</h4>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="20"/>
+  </a>
+  <a href="https://sequelize.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sequelize-764ABC.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize" height="20"/>
+  </a>
+</p>
+
+<h4 align="center">Database</h4>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="20"/>
+  </a>
+</p>
+
+<h4 align="center">Design Tools</h4>
+<p align="center">
+  <a href="https://www.figma.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/figma-7952B3.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="20"/>
+  </a>
+</p>
+
+<h4 align="center">Version Control</h4>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/git-61DAFB.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="20"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/github-339933.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="20"/>
+  </a>
+</p>
+
+<h4 align="center">Agile Methodologies</h4>
+<p align="center">
+  <a href="https://www.atlassian.com/es/software/jira" target="_blank"> 
+    <img src="https://img.shields.io/badge/jira-764ABC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira" height="20"/>
+  </a>
+</p>
+
+<h4 align="center">Project Management</h4>
+<p align="center">
+  <a href="https://trello.com/es" target="_blank"> 
+    <img src="https://img.shields.io/badge/trello-F7DF1E.svg?style=for-the-badge&logo=trello&logoColor=white" alt="trello" height="20"/>
+  </a>
+</p>
+
+
+<!-- Repite el mismo patrón para las demás secciones -->
+
+
 
 Let's Connect:
 I'm on the lookout for opportunities to contribute my skills and learn from challenging projects. If your team values efficiency and practical problem-solving, I'd love to be a part of it! Let's talk about how I can contribute to your projects! 🌟🚀
